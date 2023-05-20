@@ -1,0 +1,11 @@
+.App {
+    font-family: 'Roboto Condensed', sans-serif;
+
+    display: grid;
+    max-width: 1200px;
+    margin: 0 auto;
+    grid-template-areas: 
+            "h h h"
+            "m m s"
+            "f f f";
+}
